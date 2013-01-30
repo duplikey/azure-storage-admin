@@ -1,0 +1,11 @@
+extends layout
+
+block content
+	h1= title
+	form(action="/login", method="post", class="well")
+		label Account name:
+		input(name="account_name", type="textbox")
+		label Account key: 
+		input(name="account_key", type="textbox")
+		br
+		button(type="submit", class="btn") Login

@@ -1,0 +1,26 @@
+extends layout
+
+block content
+	a(href="/tables") Back to tables
+	h1= title
+
+	table(class="table table-striped table-bordered")
+		tr
+			td PartitionKey
+			td RowKey
+			td entity
+			td Timestamp
+			td id
+			td link
+			td updated
+			td etag
+		each entity in entities
+			tr
+				td #{entity.PartitionKey}
+				td #{entity.RowKey}
+				td #{JSON.stringify(entity.entity)}
+				td #{entity.Timestamp}
+				td #{entity.id}
+				td #{entity.link}
+				td #{entity.updated}
+				td #{entity.etag}

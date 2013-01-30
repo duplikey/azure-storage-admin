@@ -1,0 +1,11 @@
+extends layout
+
+block content
+	a(href="/") Back to index
+	h1= title
+
+	table(class="table table-striped table-bordered")
+		each queue in queues
+			tr
+				td
+					a(href="queues/#{queue.name}") #{queue.name}

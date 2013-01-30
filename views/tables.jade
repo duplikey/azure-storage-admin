@@ -1,0 +1,11 @@
+extends layout
+
+block content
+	a(href="/") Back to index
+	h1= title
+
+	table(class="table table-striped table-bordered")
+		each table in tables
+			tr
+				td
+					a(href="tables/#{table.TableName}") #{table.TableName}

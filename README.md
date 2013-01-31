@@ -13,7 +13,7 @@ Web viewer and manager for Microsoft Azure storage services:
 
 There are several Windows tools to manage Azure storage services, free and not. Even in Visual Studio is possibile to manage databases.
 
-But…**there are no tools for linux and MacOS**!
+But... **there are no tools for linux and MacOS**!
 
 A webapp is the solution!
 

@@ -7,7 +7,7 @@ Web viewer and manager for Microsoft Azure storage services:
 * Queues
 * Blobs
 
-**Note**: the first version is just a **viewer**, the final idea is to create a **complete manager** like phpMyAdmin for MySQL.
+**Note:** Here you can find the source code. If you want to use Azure Storage Admin just login on [www.azurestorageadmin.com](http://www.azurestorageadmin.com).
 
 ## Why Azure Storage Admin?
 
@@ -17,17 +17,19 @@ But... **there are no tools for linux and MacOS**!
 
 A webapp is the solution!
 
+The first version is just a **viewer**, the final idea is to create a **complete manager** like phpMyAdmin for MySQL.
+
 ## Usage
 
 There are two ways to use Azure Storage Admin:
 
-* On-line, directly on the [official website](http://asa.eu01.aws.af.cm). Just login with your Azure credentials and start use it.
+* On-line, directly on the [official website](http://www.azurestorageadmin.com). Just login with your Azure credentials and start use it.
 * Off-line, downloading it and running it on your machine with the command
 `node app.js`.
 
 ## License - MIT
 
-Copyright (c) 2013 - [Raffaele Gaito](http://raffaelegaito.com)
+Copyright (c) 2013 - [Raffaele Gaito](http://www.raffaelegaito.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 

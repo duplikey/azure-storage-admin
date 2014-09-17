@@ -7,7 +7,7 @@ Web viewer and manager for Microsoft Azure storage services:
 * Queues
 * Blobs
 
-**Note:** Here you can find the source code. If you want to use Azure Storage Admin just login on [www.azurestorageadmin.com](http://www.azurestorageadmin.com).
+**Note:** Here you can find the source code. If you want to use Azure Storage Admin just login on [www.azurestorageadmin.com](http://azurestorageadmin.raffaelegaito.com).
 
 ## Why Azure Storage Admin?
 
@@ -23,7 +23,7 @@ The first version is just a **viewer**, the final idea is to create a **complete
 
 There are two ways to use Azure Storage Admin:
 
-* On-line, directly on the [official website](http://www.azurestorageadmin.com). Just login with your Azure credentials and start use it.
+* On-line, directly on the [official website](http://azurestorageadmin.raffaelegaito.com). Just login with your Azure credentials and start use it.
 * Off-line, downloading it and running it on your machine with the command
 `node app.js`.
 

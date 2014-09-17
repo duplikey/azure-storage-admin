@@ -7,7 +7,7 @@ Web viewer and manager for Microsoft Azure storage services:
 * Queues
 * Blobs
 
-**Note:** Here you can find the source code. If you want to use Azure Storage Admin just login on [www.azurestorageadmin.com](http://azurestorageadmin.raffaelegaito.com).
+**Note:** Here you can find the source code. If you want to use Azure Storage Admin just login on [azurestorageadmin.raffaelegaito.com](http://azurestorageadmin.raffaelegaito.com).
 
 ## Why Azure Storage Admin?
 
